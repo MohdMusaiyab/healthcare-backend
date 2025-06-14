@@ -2,6 +2,8 @@
 
 A secure Node.js/Express.js backend for healthcare management with PostgreSQL, JWT authentication, and RESTful APIs for patient-doctor record management.
 
+🚀 **Live API Base URL**: [https://healthcare-backend-z1bi.onrender.com](https://healthcare-backend-z1bi.onrender.com)
+
 ## Features
 
 - ✅ JWT Authentication (Register/Login)
